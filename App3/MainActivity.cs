@@ -16,6 +16,7 @@ namespace App3
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
+			//change 1
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
