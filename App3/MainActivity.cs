@@ -18,6 +18,7 @@ namespace App3
             base.OnCreate(bundle);
 			//change 1
 			//change 2
+            //change 3
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
