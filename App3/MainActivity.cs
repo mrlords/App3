@@ -19,6 +19,7 @@ namespace App3
 			//change 1
 			//change 2
             //change 3
+            //change 4 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
